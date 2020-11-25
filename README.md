@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **vitorrubim1/vitorrubim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitorrubim1&show_icons=true&theme=midnight-purple)
+
+[![Vitor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorrubim1)](https://github.com/anuraghazra/github-readme-stats)

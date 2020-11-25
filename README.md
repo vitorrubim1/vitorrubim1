@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Vitor Rubim 🖥️
 
 <!--
 **vitorrubim1/vitorrubim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitorrubim1&show_icons=true&theme=midnight-purple)
 
-[![Vitor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorrubim1)](https://github.com/anuraghazra/github-readme-stats)
+- 🏢 I’m currently working on <b>aiTia Labs</b> 
+- 🔨 My favorite tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>ReactJs</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>NodeJs</b>

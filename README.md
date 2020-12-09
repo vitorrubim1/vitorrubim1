@@ -5,20 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitorrubim1&show_icons=true&theme=midnight-purple)
-
 - 🏢 I’m currently working on <b>aiTia Labs</b> 
 
 - 🔨 My favorite tools: <b>TypeScript</b> <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/>, <b>ReactJs</b> <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/>, <b>NodeJs</b> <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/>
 
 - 📚 Currently learning: <b>Styled components</b>, <b>TDD</b>, <b>GraphQL</b> 
+-->
+
+![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitorrubim1&show_icons=true&theme=midnight-purple)
+
+```javascript
+const lifecicle = {
+  code: ['Javascript', 'HTML', 'CSS', 'Typescript',],
+  favoriteTools: ['JavaScript', 'ReactJS', 'NodeJS', 'HTML', 'CSS'],
+  tools: ['ReactJS', 'Redux', 'NodeJS', 'PostgresQL', 'MySql', 'Jest', 'Linux'],
+  skills: ['SCRUM' ]
+}
+```

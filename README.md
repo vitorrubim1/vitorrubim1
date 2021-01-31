@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ```javascript
 const lifecicle = {
-  code: ["Javascript", "HTML", "CSS", "Typescript", "MySQL"],
-  favoriteTools: ["JavaScript", "ReactJS", "NodeJS", "Typescript", "HTML", "CSS"],
-  tools: ["ReactJS", "Redux", "NodeJS", "MySQL", "Linux"],
-  skills: ["SCRUM"]
+  code: ['Javascript', 'HTML', 'CSS', 'Typescript', 'MySQL'],
+  favoriteTools: ['JavaScript', 'ReactJS', 'NodeJS', 'Typescript', 'HTML', 'CSS'],
+  tools: ['ReactJS', 'Redux', 'NodeJS', 'MySQL', 'Linux'],
+  skills: ['SCRUM']
 }
 ```
 - 🏢 I’m currently working on <b>aiTia Labs</b> 

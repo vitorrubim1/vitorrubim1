@@ -22,4 +22,4 @@ const lifecicle = {
   skills: ['SCRUM']
 }
 ```
-- 🏢 I’m currently working on <b>aiTia Labs</b> 
+- 🏢 I’m currently working on <b>Yours Bank</b> 

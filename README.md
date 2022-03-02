@@ -4,7 +4,7 @@ I am a full stack developer involved in the javascript ecosystem. Solving proble
 
 #### Get in touch
 
-<div style="display: flex;">
+<div align="center" style="display: flex">
  
   [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
 
@@ -22,7 +22,7 @@ I am a full stack developer involved in the javascript ecosystem. Solving proble
 
 #### Technologies
 
-<div style="display: flex; margin-bottom: 3rem">
+<div align="center" style="display: flex; margin-bottom: 3rem">
   <img title="HTML" draggable="false" width="54" src="icons/technologies/html.svg"> &nbsp; &nbsp;
   <img title="CSS" draggable="false" width="54" src="icons/technologies/css.svg"> &nbsp; &nbsp;
   <img title="Javascript" draggable="false" width="54" src="icons/technologies/javascript.svg"> &nbsp; &nbsp;

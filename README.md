@@ -1,28 +1,28 @@
-## Hi there, I'm Vitor Rubim 
+## Hi, I'm Vitor Rubim :)
 
 I am a full stack developer involved in the javascript ecosystem. Solving problem since 2019.
 
 #### Get in touch
 
-<div style="display: flex">
+<div style="display: flex;">
  
-  [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946)&nbsp; &nbsp;
-  
+  [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
+
   [<img title="Telegram" draggable="false" width="54" src="icons/social/telegram.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
-
+  
   [<img title="Gmail" draggable="false" width="54" src="icons/social/gmail.svg">](mailto:rubim.vitor1@gmail.com) &nbsp; &nbsp;
-
+  
   [<img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">](https://twitter.com/vitoorRubim) &nbsp; &nbsp;
-
+  
   [<img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">](https://www.linkedin.com/in/vitor-rubim-006ba2164/) &nbsp; &nbsp;
-
+  
   [<img title="Discord" draggable="false" width="54" src="icons/social/discord.svg">](https://www.linkedin.com/in/vitor-rubim-006ba2164/) &nbsp; &nbsp;
 
 </div>
 
 #### Technologies
 
-<div style="display: flex; margin-bottom: 2rem">
+<div style="display: flex; margin-bottom: 3rem">
   <img title="HTML" draggable="false" width="54" src="icons/technologies/html.svg"> &nbsp; &nbsp;
   <img title="CSS" draggable="false" width="54" src="icons/technologies/css.svg"> &nbsp; &nbsp;
   <img title="Javascript" draggable="false" width="54" src="icons/technologies/javascript.svg"> &nbsp; &nbsp;

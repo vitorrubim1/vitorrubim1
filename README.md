@@ -4,8 +4,8 @@ I am a full stack developer involved in the javascript ecosystem. Solving proble
 
 #### Get in touch
 
-<div style="display: flex">
- 
+<div>
+
   [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
 
   [<img title="Telegram" draggable="false" width="54" src="icons/social/telegram.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
@@ -15,6 +15,7 @@ I am a full stack developer involved in the javascript ecosystem. Solving proble
   [<img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">](https://twitter.com/vitoorRubim) &nbsp; &nbsp;
   
   [<img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">](https://www.linkedin.com/in/vitor-rubim-006ba2164/) &nbsp; &nbsp;
+  
 </div>
 
 #### Technologies

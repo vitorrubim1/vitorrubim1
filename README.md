@@ -1,25 +1,37 @@
-# Hi there, I'm Vitor Rubim 🖥️
+## Hi there, I'm Vitor Rubim 
 
-<!--
-**vitorrubim1/vitorrubim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer involved in the javascript ecosystem. Solving problem since 2019.
 
-Here are some ideas to get you started:
+#### Get in touch
 
-- 🏢 I’m currently working on <b>aiTia Labs</b> 
+<div style="display: flex">
+ 
+  [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946)&nbsp; &nbsp;
+  
+  [<img title="Telegram" draggable="false" width="54" src="icons/social/telegram.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
 
-- 🔨 My favorite tools: <b>TypeScript</b> <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/>, <b>ReactJs</b> <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/>, <b>NodeJs</b> <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/>
+  [<img title="Gmail" draggable="false" width="54" src="icons/social/gmail.svg">](mailto:rubim.vitor1@gmail.com) &nbsp; &nbsp;
 
-- 📚 Currently learning: <b>Styled components</b>, <b>TDD</b>, <b>GraphQL</b> 
--->
+  [<img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">](https://twitter.com/vitoorRubim) &nbsp; &nbsp;
 
-![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitorrubim1&show_icons=true&theme=midnight-purple)
+  [<img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">](https://www.linkedin.com/in/vitor-rubim-006ba2164/) &nbsp; &nbsp;
 
-```javascript
-const lifecicle = {
-  code: ['Javascript', 'HTML', 'CSS', 'Typescript', 'MySQL'],
-  favoriteTools: ['JavaScript', 'ReactJS', 'NodeJS', 'Typescript', 'HTML', 'CSS'],
-  tools: ['ReactJS', 'Redux', 'NodeJS', 'MySQL', 'Linux'],
-  skills: ['SCRUM']
-}
-```
-- 🏢 I’m currently working on <b>Yours Bank</b> 
+  [<img title="Discord" draggable="false" width="54" src="icons/social/discord.svg">](https://www.linkedin.com/in/vitor-rubim-006ba2164/) &nbsp; &nbsp;
+
+</div>
+
+#### Technologies
+
+<div style="display: flex; margin-bottom: 2rem">
+  <img title="HTML" draggable="false" width="54" src="icons/technologies/html.svg"> &nbsp; &nbsp;
+  <img title="CSS" draggable="false" width="54" src="icons/technologies/css.svg"> &nbsp; &nbsp;
+  <img title="Javascript" draggable="false" width="54" src="icons/technologies/javascript.svg"> &nbsp; &nbsp;
+  <img title="React" draggable="false" width="54" src="icons/technologies/react.svg"> &nbsp; &nbsp;
+  <img title="Typescript" draggable="false" width="54" src="icons/technologies/typescript.svg"> &nbsp; &nbsp;
+  <img title="Docker" draggable="false" width="54" src="icons/technologies/docker.svg"> &nbsp; &nbsp;
+  <img title="Git" draggable="false" width="54" src="icons/technologies/git.svg"> &nbsp; &nbsp;
+  <img title="Github" draggable="false" width="54" src="icons/technologies/github.svg"> &nbsp; &nbsp; 
+  <img title="Ubuntu" draggable="false" width="54" src="icons/technologies/ubuntu.svg"> &nbsp; &nbsp; 
+</div>
+
+*Passionate about each of these technologies and solutions. And learning from each of them every day.*

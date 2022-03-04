@@ -1,21 +1,31 @@
+
 ## Hi, I'm Vitor Rubim :)
 
 I am a full stack developer involved in the javascript ecosystem. Solving problem since 2019.
 
+
 #### Get in touch
 
-<div>
+<div style="display: flex">
+  <a href="https://api.whatsapp.com/send?phone=5511977048946" blank="_target">
+    <img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg" />
+  </a> &nbsp; &nbsp;
 
-  [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/vitor-rubim-006ba2164/" blank="_target">
+    <img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">
+  </a>  &nbsp; &nbsp;
 
-  [<img title="Telegram" draggable="false" width="54" src="icons/social/telegram.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
-  
-  [<img title="Gmail" draggable="false" width="54" src="icons/social/gmail.svg">](mailto:rubim.vitor1@gmail.com) &nbsp; &nbsp;
-  
-  [<img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">](https://twitter.com/vitoorRubim) &nbsp; &nbsp;
-  
-  [<img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">](https://www.linkedin.com/in/vitor-rubim-006ba2164/) &nbsp; &nbsp;
-  
+  <a href="mailto:rubim.vitor1@gmail.com" blank="_target">
+    <img title="Gmail" draggable="false" width="54" src="icons/social/gmail.svg">
+  </a>  &nbsp; &nbsp;
+
+  <a>
+    <img title="Telegram" draggable="false" width="54" src="icons/social/telegram.svg">
+  </a>  &nbsp; &nbsp;
+
+  <a href="https://twitter.com/vitoorRubim" blank="_target">
+    <img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">
+  </a>  &nbsp; &nbsp;
 </div>
 
 #### Technologies

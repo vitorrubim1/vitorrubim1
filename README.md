@@ -4,7 +4,7 @@ I am a full stack developer involved in the javascript ecosystem. Solving proble
 
 #### Get in touch
 
-<div>
+<div style="display: flex; margin-bottom: 3rem">
 
   [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511977048946) &nbsp; &nbsp;
 
